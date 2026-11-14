@@ -1,0 +1,10 @@
+{
+  "method": "improved",
+  "seed": 44,
+  "fingerprint": "97a72b304fa1202030a97529bd4892e69161c11f1b173a529b2056c29680ed60",
+  "dataset": "Original CIFAR-100",
+  "training_images": 50000,
+  "test_images": 10000,
+  "pretrained_weights": false,
+  "evaluation": "Task-incremental"
+}
