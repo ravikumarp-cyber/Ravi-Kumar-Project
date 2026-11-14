@@ -1,0 +1,11 @@
+{
+  "dataset": "Original CIFAR-100",
+  "train_images": 50000,
+  "test_images": 10000,
+  "classes": 100,
+  "tasks": 20,
+  "classes_per_task": 5,
+  "synthetic_images": 0,
+  "training_subset": false,
+  "evaluation": "Task-incremental, known task ID"
+}

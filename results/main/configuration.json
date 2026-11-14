@@ -1,0 +1,28 @@
+{
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "methods": [
+    "improved",
+    "replay_only"
+  ],
+  "epochs": 18,
+  "batch_size": 128,
+  "replay_batch": 96,
+  "memory_budget": 2000,
+  "lr": 0.001,
+  "min_lr": 1.5e-05,
+  "weight_decay": 0.0001,
+  "label_smoothing": 0.05,
+  "replay_weight": 0.8,
+  "feature_weight": 0.4,
+  "prototype_weight": 0.15,
+  "distill_weight": 0.25,
+  "temperature": 2.0,
+  "tasks": 20,
+  "classes_per_task": 5
+}
