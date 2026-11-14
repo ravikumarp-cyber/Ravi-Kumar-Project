@@ -1,0 +1,11 @@
+# Versions were not recorded in the supplied files.
+# Use a mutually compatible CUDA-enabled torch/torchvision installation.
+numpy
+pandas
+torch
+torchvision
+Pillow
+matplotlib
+requests
+kaggle
+ipython
